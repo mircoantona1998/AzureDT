@@ -1,0 +1,14 @@
+{
+  "@id": "dtmi:example:Room;1",
+  "@type": "Interface",
+  "displayName": "Room",
+  "contents": [
+    {
+      "@type": "Relationship",
+      "name": "containsThermostat",
+      "target": "dtmi:example:Thermostat;1",
+      "properties": []
+    }
+  ],
+  "@context": "dtmi:dtdl:context;2"
+}

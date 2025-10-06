@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@azure/digital-twins-core": "^1.1.0",
+    "@azure/identity": "^4.9.1"
+  }
+}

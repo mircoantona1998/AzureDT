@@ -1,0 +1,18 @@
+{
+  "@id": "dtmi:example:Serra;1",
+  "@type": "Interface",
+  "displayName": "Serra",
+  "contents": [
+    {
+      "@type": "Property",
+      "name": "humidity",
+      "schema": "double"
+    },
+    {
+      "@type": "Relationship",
+      "name": "contains",
+      "displayName": "contains"
+    }
+  ],
+  "@context": "dtmi:dtdl:context;2"
+}

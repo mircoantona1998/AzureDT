@@ -1,0 +1,16 @@
+{
+  "name": "simulatore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "simulatore2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/digital-twins-core": "^1.1.0",
+    "azure-iot-device": "^1.18.2",
+    "azure-iot-device-mqtt": "^1.16.2"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:example:Thermostat;1",
+  "@type": "Interface",
+  "displayName": "Thermostat",
+  "contents": [
+    {
+      "@type": "Property",
+      "name": "TemperatureSensorValue",
+      "schema": "double",
+      "writable": true,
+      "description": "Temperature in degree Celsius"
+    }
+  ],
+  "@context": "dtmi:dtdl:context;2"
+}
